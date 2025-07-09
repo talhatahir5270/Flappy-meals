@@ -4,10 +4,24 @@ FlappyMeals is an in-campus food delivery app designed to make ordering meals qu
 
 #Features
 
-User-friendly Interface: Easy-to-navigate UI for a smooth ordering process.
-Real-time Tracking: Track your order status in real-time.
-Menu Browsing: Browse and search menus from multiple campus dining locations.
-Secure Payments: Integrated payment gateway for secure transactions.
-Order History: Keep track of past orders for quick reordering.
-Rider Tracking: Keeping live track of the rider
-Rider Dashboard: Complete Rider Dashboard
+User-friendly Interface: 
+
+Easy-to-navigate UI for a smooth ordering process.
+Real-time Tracking: 
+
+Track your order status in real-time.
+Menu Browsing: 
+
+Browse and search menus from multiple campus dining locations.
+Secure Payments: 
+
+Integrated payment gateway for secure transactions.
+Order History: 
+
+Keep track of past orders for quick reordering.
+Rider Tracking: 
+
+Keeping live track of the rider
+Rider Dashboard: 
+
+Complete Rider Dashboard
